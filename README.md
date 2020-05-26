@@ -1,2 +1,4 @@
 # price_watch
-Checks if the price of a product has changed.
+Selenium WebDriver with Python. 
+This script checks if the price of the phone has changed 
+and shows a message with details if so.
