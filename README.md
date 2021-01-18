@@ -6,5 +6,5 @@ Written in Python with Selenium WebDriver.
 
 # This Script:
 
-Checks if the price of the phone has changed 
+Checks if the price of a product has changed 
 and shows a message with details if so.
